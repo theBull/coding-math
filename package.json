@@ -1,0 +1,14 @@
+{
+	"name": "coding-math",
+	"version": "0.0.1",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"serve": "browser-sync start --serveStatic ./public --server ./public --port 3200 --files ./public --open true"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.18.13"
+	}
+}
